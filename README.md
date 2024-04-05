@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-1. Senthilkumar Ranganathan
+2. Senthilkumar Ranganathan
