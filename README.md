@@ -22,5 +22,7 @@
 21. Abirami Singaravelu
 22. Sanjay Kumar
 23. Rithika Rajendran
-20. Lokesh Bala
-22. Lijitha Aswi Andran
+24. Thirunavukkarasu Dhanapal
+25. Gnanaprakasam Sekar
+26. Sivakumar Vairamuthu
+27. Lijitha Aswi Andran
