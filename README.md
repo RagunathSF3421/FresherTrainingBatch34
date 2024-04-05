@@ -15,4 +15,3 @@
 14. Sivasankaranarayanan Dharmalingam
 15. Prem kumar Arul
 16. Selvabala Velmurugan
-17. Rithika Rajendran
