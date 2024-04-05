@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-1.Suruthika Anbu
+2.Suruthika Anbu
