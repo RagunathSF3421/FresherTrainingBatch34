@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-1. Dinesh Kumar Thiyagarajan
+1. Sanjay Vedhachalam1. Dinesh Kumar Thiyagarajan
