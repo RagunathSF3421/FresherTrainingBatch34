@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-1. Narendranath R
+1. Narendranath Ramasamy
