@@ -1,2 +1,3 @@
 # FresherTrainingBatch34
-1. Rethik S
+1. Sanjay Vedhachalam
+2. Rethik S
