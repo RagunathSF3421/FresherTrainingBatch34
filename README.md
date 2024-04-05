@@ -46,4 +46,4 @@
 45. Rishiswaminathan Padmanaban
 46. Tharunkumar Srinivasan
 47. Vincent Kumar Lourdu Joseph Raj
-48. Lijitha Aswi Andran
+48. Vasanthakumar Banukumar
