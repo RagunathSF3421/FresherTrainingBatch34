@@ -28,7 +28,6 @@
 27. Bala Baskar
 28. Abinaya Selvam
 29. Tamilpriya Thangaraju
-30. Durairaj Packiyanathan29. Tamilpriya Thangaraju
 30. Hemavathi Balaraman
 31. Praveen Sivaraman
 32. Bhuvanesh Dhakshinamoorthy
@@ -38,4 +37,5 @@
 36. Anand Aruldoss
 37. Dharshana Rameshgupta
 38. Raagavan Subramani
-39. Durairaj Packiyanathan
+39. Suryaprakash Ravikannan
+40. Durairaj Packiyanathan
