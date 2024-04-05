@@ -34,15 +34,7 @@
 33. Vallarasu Ravichandran
 33. Vallarasu Ravichandran
 34. Manju Dhanasekaran
-35.Tinesh Kumar
-<<<<<<< .mine
-31. Tamilpriya Thangaraju
-32. Syamprakash Jayaprakash
-
-
-=======
-31. Praveen Sivaraman
-32. Bhuvanesh Dhakshinamoorthy
-33. Vallarasu Ravichandran
-34. Manju Dhanasekaran
->>>>>>> .theirs
+35. Tinesh Kumar
+36. Anand Aruloss
+37. Dharshana Rameshgupta
+38. Syamprakash Jayaprakash
