@@ -10,4 +10,8 @@
 10. Preethika sathish
 11. Gokulkumar Murugesan
 12. ParthasarathyVenkidusamy Muthukrishnan
+<<<<<<< HEAD
 13. Rithika Rajendran
+=======
+13. Siva Paramasivam
+>>>>>>> 9b1ed8ecf2ac683c01aa88f3b00f1a59b0a61738
