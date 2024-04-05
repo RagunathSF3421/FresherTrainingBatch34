@@ -31,18 +31,9 @@
 30. Hemavathi Balaraman
 31. Praveen Sivaraman
 32. Bhuvanesh Dhakshinamoorthy
-<<<<<<< HEAD
-33. Vallarasu Ravichandran32. Bhuvanesh Dhakshinamoorthy
-35.Rahul Rengaraj
-=======
 33. Vallarasu Ravichandran
 34. Manju Dhanasekaran
-<<<<<<< HEAD
->>>>>>> bbd04085a8ec1dd8bb1c2272c9fbeae14f985bf2
-=======
 35. Tinesh Kumar
-<<<<<<< HEAD
->>>>>>> 7d51226fbca2ee9f0974860c09ca51e017aad38f
-=======
 36. Anand Aruldoss
->>>>>>> f992301d427a7391bfe52dd45ce4ca5cde9b01d9
+37. Dharshana Rameshgupta
+38. Rahul Rengaraj
