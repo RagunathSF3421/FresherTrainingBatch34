@@ -46,10 +46,6 @@
 21. Abirami Singaravelu
 22. Sanjay Kumar
 23. Rithika Rajendran
-<<<<<<< HEAD
-24. Thirunavukkarasu Dhanapal25. Venkatakrishnan Sankar
-24. Thirunavukkarasu Dhanapal25. Venkatakrishnan Sankar
-=======
 24. Thirunavukkarasu Dhanapal
 26. Sivakumar Vairamuthu
 30. Hemavathi Balaraman
@@ -63,3 +59,4 @@
 38. Raagavan Subramani
 39. Suryaprakash Ravikannan
 40. Subash Sorimuthupattaraja
+
