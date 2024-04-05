@@ -26,4 +26,3 @@
 25. Gnanaprakasam Sekar
 26. Sivakumar Vairamuthu
 27. Bala Baskar
-28. Mohamed Arshad
