@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-5. Suresh Ganesan
+6. Suresh Ganesan
