@@ -13,12 +13,8 @@
 8. Rethik Selvakumaran
 9. Deyvanai Kaliyaperumal
 10. Preethika sathish
-<<<<<<< .mine
-11. Gokulkumar Murugesan
-12. Karthika Ravichandran
-
-=======
 11. Gokulkumar Murugesan
 12. Senthilkumar Ranganathan
+13. Karthika Ravichandran
 
->>>>>>> .theirs
+
