@@ -30,5 +30,5 @@
 21. Abirami Singaravelu
 22. Sanjay Kumar
 23. Rithika Rajendran
-26. Sivakumar Vairamuthu
-27. Vincent Kumar
+27. Bala Baskar
+28. Vincent Kumar
