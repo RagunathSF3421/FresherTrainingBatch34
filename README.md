@@ -25,5 +25,5 @@
 24. Thirunavukkarasu Dhanapal
 25. Gnanaprakasam Sekar
 26. Sivakumar Vairamuthu
-30. Hemavathi Balaraman
-31. Karthika Ravichandran
+31. Praveen Sivaraman
+32. Karthika Ravichandran
