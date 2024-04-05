@@ -13,8 +13,4 @@
 12. ParthasarathyVenkidusamy Muthukrishnan
 13. Siva Paramasivam
 14. Sivasankaranarayanan Dharmalingam
-<<<<<<< HEAD
-15. Manju Dhanasekaran
-=======
-15. Prem kumar Arul
->>>>>>> 26d60a9a457a4262e55b99bc1b1b0ef206f38a4d
+13. Manju Dhanasekaran
