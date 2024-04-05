@@ -6,6 +6,8 @@
 4. Prakash Muthusamy
 5. Viswajith Mathialagan
 6. Lavan Ramesh
-6. Thirunavukkarasu Dhanapal
-7. Selvabala Velmurugan
-7. Dharshana Rameshgupta
+7. Yathavakrishnan Mohan
+8. Rethik Selvakumaran
+9. Deyvanai Kaliyaperumal
+10. Preethika sathish
+11. Gokulkumar Murugesan
