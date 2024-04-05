@@ -17,9 +17,5 @@
 15. Prem kumar Arul
 16. Selvabala Velmurugan
 17. Senthilkumar Ranganthan
-<<<<<<< .mine
-
-=======
 18. Venkata Ramakrishna Reddy
->>>>>>> .theirs
-19. Dhanush Sivakumar20.
+19. Dhanush Sivakumar
