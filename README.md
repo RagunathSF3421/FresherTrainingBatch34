@@ -13,4 +13,3 @@
 11. Gokulkumar Murugesan
 12. ParthasarathyVenkidusamy Muthukrishnan
 13. Siva Paramasivam
-13. Senthilkumar Ranganathan
