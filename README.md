@@ -1,2 +1,3 @@
 # FresherTrainingBatch34
-1. Priyadharshini Kesavan
+1. Sanjay Vedhachalam
+2. Priyadharshini Kesavan
