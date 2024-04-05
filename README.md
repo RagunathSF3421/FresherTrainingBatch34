@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-1. LijithaAswi
+1. Lijitha Aswi
