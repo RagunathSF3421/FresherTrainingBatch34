@@ -30,9 +30,8 @@
 27. Bala Baskar
 28. Abinaya Selvam
 29. Tamilpriya Thangaraju
-<<<<<<< HEAD
-30. Kalaivani Muthukannan
+
 
 =======
 30. Hemavathi Balaraman
->>>>>>> e5f60078d53785c771cd1c52d5a77e311da271e0
+
