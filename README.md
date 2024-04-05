@@ -5,5 +5,5 @@
 4. Prakash Muthusamy
 5. Viswajith Mathialagan
 6. Lavan Ramesh
-7. Yathavakrishnan Moha
-n8. Lokesh Bala
+8. Rethik Selvakumaran
+9. Lokesh Bala
