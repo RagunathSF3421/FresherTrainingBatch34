@@ -1,7 +1,2 @@
 # FresherTrainingBatch34
-
-
-
-
-
-6. Vallarasu Ravichandran
+7. Vallarasu Ravichandran
