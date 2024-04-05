@@ -7,7 +7,7 @@
 6. Lavan Ramesh
 7. Yathavakrishnan Mohan
 8. Rethik Selvakumaran
-9. DeyvanI kaliyaperumal
+9. Deyvanai Kaliyaperumal
 10. Preethika sathish
 11. Gokulkumar Murugesan
 12. ParthasarathyVenkidusamy Muthukrishnan
@@ -21,9 +21,6 @@
 20. Lokesh Bala
 21. Abirami Singaravelu
 22. Sanjay Kumar
-<<<<<<< .mine
-23. Sivakumar Vairamuthu
-=======
 23. Rithika Rajendran
->>>>>>> .theirs
-
+24. Thirunavukkarasu Dhanapal
+25. Sivakumar Vairamuthu
