@@ -33,13 +33,8 @@
 32. Bhuvanesh Dhakshinamoorthy
 33. Vallarasu Ravichandran
 34. Manju Dhanasekaran
-<<<<<<< HEAD
-33. Vallarasu Ravichandran
-34. Subash Sorimuthupattaraja
-=======
 35. Tinesh Kumar
-<<<<<<< HEAD
->>>>>>> 7d51226fbca2ee9f0974860c09ca51e017aad38f
-=======
 36. Anand Aruldoss
-37. Dharshana Rameshgupta38. Subash Sorimuthupattaraja
+37. Dharshana Rameshgupta
+38. Raagavan Subramani
+39. Subash Sorimuthupattaraja
