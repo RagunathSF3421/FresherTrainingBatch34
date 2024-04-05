@@ -18,5 +18,16 @@
 >>>>>>> .theirs
 =======
 8. Rethik Selvakumaran
+<<<<<<< .mine
 >>>>>>> .theirs
 9. Deyvanai Kaliyaperumal10. Gnanaprakasam Sekar
+
+
+=======
+9. Deyvanai Kaliyaperumal
+10. Preethika sathish
+11. Gokulkumar Murugesan
+12. ParthasarathyVenkidusamy Muthukrishnan
+>>>>>>> .theirs
+13. Siva Paramasivam
+14. Gnanaprakasam Sekar
