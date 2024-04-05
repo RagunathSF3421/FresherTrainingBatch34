@@ -4,5 +4,6 @@
 3. Dinesh Kumar Thiyagarajan
 4. Prakash Muthusamy
 5. Viswajith Mathialagan
-6. Thirunavukkarasu Dhanapal
-7. Tinesh Kumar Sivakumar
+6. Lavan Ramesh
+7. Yathavakrishnan Mohan
+8. Tinesh Kumar
