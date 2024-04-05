@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-4.Syamprakash Jayaprakash
+6.Syamprakash Jayaprakash
