@@ -1,3 +1,3 @@
 # FresherTrainingBatch34
-5. TharunkumarSrinivasan
+6. TharunkumarSrinivasan
 
