@@ -17,5 +17,5 @@
 16. Selvabala Velmurugan
 17. Senthilkumar Ranganthan
 18. Venkata Ramakrishna Reddy
-19. Dhanush Sivakumar
-20. Manju Dhanasekaran
+20. Lokesh Bala
+21. Manju Dhanasekaran
