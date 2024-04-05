@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-4. Abirami Singaravelu
+6. Abirami Singaravelu
