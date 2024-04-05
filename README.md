@@ -20,5 +20,6 @@
 19. Dhanush Sivakumar
 20. Lokesh Bala
 21. Abirami Singaravelu
-22. Sanjay kumar
-23. Vasanthakumar
+22. Sanjay Kumar
+23. Rithika Rajendran
+24. Vasanthakumar
