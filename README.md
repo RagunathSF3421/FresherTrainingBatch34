@@ -5,11 +5,7 @@
 3. Dinesh Kumar Thiyagarajan
 4. Prakash Muthusamy
 5. Viswajith Mathialagan
-<<<<<<< .mine
-6. Raagavan Subramani
-=======
 6. Lavan Ramesh
-<<<<<<< .mine
 7. Yathavakrishnan Mohan
 8. Rethik Selvakumaran
 <<<<<<< HEAD
@@ -18,7 +14,11 @@
 9. Deyvanai Kaliyaperumal
 10. Preethika sathish
 11. Gokulkumar Murugesan
+<<<<<<< HEAD
 12. Senthilkumar Ranganathan
 13.Karthikeyan Raja
 
 >>>>>>> 5e64fa2f33d6bba16fc1d8c7b4380bbd5be769ca
+=======
+12. ParthasarathyVenkidusamy Muthukrishnan
+>>>>>>> 279cbbff1fb9f2c969a47bec6c26806bd4ebb373
