@@ -41,5 +41,5 @@
 28. Abinaya Selvam
 29. Tamilpriya Thangaraju
 30. Hemavathi Balaraman
-33. Vallarasu Ravichandran
-34. Vincent Kumar
+34. Manju Dhanasekaran
+35. Vincent Kumar
