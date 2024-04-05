@@ -32,7 +32,6 @@
 31. Praveen Sivaraman
 32. Bhuvanesh Dhakshinamoorthy
 33. Vallarasu Ravichandran
-33. Vallarasu Ravichandran
 34. Manju Dhanasekaran
 35. Tinesh Kumar
 36. Anand Aruloss
@@ -41,4 +40,5 @@
 39. Suryaprakash Ravikannan
 40. Subash Sorimuthupattaraja
 41. Velladurai Jeyaraj
-42. Syamprakash Jayaprakash
+42. Durairaj Packiyanathan
+43. Syamprakash Jayaprakash
