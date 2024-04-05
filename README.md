@@ -27,12 +27,9 @@
 26. Sivakumar Vairamuthu
 27. Bala Baskar
 28. Abinaya Selvam
-<<<<<<< HEAD
-29. Suruthika Anbu
-
-=======
-29. Tamilpriya Thangaraju
 30. Hemavathi Balaraman
 31. Praveen Sivaraman
 32. Bhuvanesh Dhakshinamoorthy
-33. Suruthika Anbu
+33. Vallarasu Ravichandran
+34. Suruthika Anbu
+
