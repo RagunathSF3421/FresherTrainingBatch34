@@ -1,2 +1,3 @@
 # FresherTrainingBatch34
-1.Parthasarathy VEnkidusamy Muthukrishnan
+1.Sanjay Vedhachalam
+2.Parthasarathyvenkidusamy M
