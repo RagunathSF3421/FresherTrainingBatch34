@@ -52,5 +52,4 @@
 =======
 24. Thirunavukkarasu Dhanapal
 26. Sivakumar Vairamuthu
-28. Abinaya Selvam
-29. Venkatakrishnan Sankar
+29. Tamilpriya Thangaraj
