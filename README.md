@@ -1,3 +1,4 @@
 # FresherTrainingBatch34
 1. Sanjay Vedhachalam
-2. Priyadharshini Kesavan
+2. Narendranath Ramasamy
+3. Priyadharshini Kesavan
