@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-1. Subash
+1. Subash Sorimuthupattaraja
