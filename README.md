@@ -1,6 +1,6 @@
 # FresherTrainingBatch34
 <<<<<<< HEAD
-10 TharunkumarSrinivasan
+15. Tharunkumar Srinivasan
 
 =======
 1. Sanjay Vedhachalam
