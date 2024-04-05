@@ -10,9 +10,7 @@
 9. Deyvanai Kaliyaperumal
 10. Preethika sathish
 11. Gokulkumar Murugesan
-<<<<<<< HEAD
-12. Senthilkumar Ranganathan
-=======
 12. ParthasarathyVenkidusamy Muthukrishnan
-13.Sivasankaranarayanan Dharmalingam
->>>>>>> 169c204cbee8f003435855de10f9839da26ebb1c
+14. Senthilkumar Ranganthan
+
+
