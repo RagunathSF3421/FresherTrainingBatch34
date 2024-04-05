@@ -22,5 +22,4 @@
 21. Abirami Singaravelu
 22. Sanjay Kumar
 23. Karthika Ravichandran
-19. Dhanush Sivakumar
 
