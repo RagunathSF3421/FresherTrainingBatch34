@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-2.Satti Venkata Ramakrishna Reddy Satti Murali Krishna Reddy
+3.Satti Venkata Ramakrishna Reddy Satti Muralikrishna Reddy
