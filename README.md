@@ -32,7 +32,6 @@
 31. Praveen Sivaraman
 32. Bhuvanesh Dhakshinamoorthy
 33. Vallarasu Ravichandran
-34. Tinesh Kumar
-35. Anand Aruldoss
-36. Dharshana Rameshgupta
-37. Lijitha Aswi Andran
+37. Dharshana Rameshgupta
+38. Raagavan Subramani
+39. Lijitha Aswi Andran
