@@ -9,7 +9,6 @@
 8. Rethik Selvakumaran
 <<<<<<< HEAD
 9.Durairaj Packiyanathan
-=======
 9. Deyvanai Kaliyaperumal
 10. Preethika sathish
 11. Gokulkumar Murugesan
