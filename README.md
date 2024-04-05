@@ -6,7 +6,7 @@
 5. Viswajith Mathialagan
 6. Lavan Ramesh
 7. Yathavakrishnan Mohan
-8. Rethik Selvakumar
+8. Rethik Selvakumaran
 9. Deyvanai Kaliyaperumal
 10. Preethika sathish
 11. Gokulkumar Murugesan
@@ -21,8 +21,5 @@
 20. Lokesh Bala
 21. Abirami Singaravelu
 22. Sanjay Kumar
-22. durairaj packiyanathan
-20. Lokesh Bala
-19. Dhanush Sivakumar
-20. Lokesh Bala
-21. Durairaj Packiyanathan
+23. Rithika Rajendran
+24. durairaj packiyanathan
