@@ -1,3 +1,3 @@
 # FresherTrainingBatch34
 1. Sanjay Vedhachalam
-3. Senthilkumar Ranganathan
+4. Senthilkumar Ranganathan
