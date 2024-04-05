@@ -1,6 +1,4 @@
 # FresherTrainingBatch34
-<<<<<<< HEAD
-=======
 1. Sanjay Vedhachalam
 2. Narendranath Ramasamy
 3. Dinesh Kumar Thiyagarajan
@@ -13,5 +11,20 @@
 10. Preethika sathish
 11. Gokulkumar Murugesan
 12. ParthasarathyVenkidusamy Muthukrishnan
-20. Subash Sorimuthupattaraja
->>>>>>> c74e3ef464db16d42fa33922df3f1a23c4611526
+13. Siva Paramasivam
+14. Sivasankaranarayanan Dharmalingam
+15. Prem kumar Arul
+16. Selvabala Velmurugan
+17. Senthilkumar Ranganthan
+18. Venkata Ramakrishna Reddy
+19. Dhanush Sivakumar
+20. Lokesh Bala
+21. Abirami Singaravelu
+22. Sanjay Kumar
+23. Rithika Rajendran
+24. Thirunavukkarasu Dhanapal
+25. Gnanaprakasam Sekar
+26. Sivakumar Vairamuthu
+27. Bala Baskar
+28. Abinaya Selvam
+29. Tamilpriya Thangaraju
