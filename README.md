@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-1.Tamilpriya
+1.Tamilpriya Thangaraju
