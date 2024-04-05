@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-1. Hemavathi Balaraman
+1. Sanjay Vedhachalam
