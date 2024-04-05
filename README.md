@@ -1,7 +1,4 @@
 # FresherTrainingBatch34
-<<<<<<< HEAD
-13.Karthikeyan
-
 =======
 1. Sanjay Vedhachalam
 2. Narendranath Ramasamy
@@ -22,5 +19,6 @@
 10. Preethika sathish
 11. Gokulkumar Murugesan
 12. Senthilkumar Ranganathan
+13.Karthikeyan Raja
 
 >>>>>>> 5e64fa2f33d6bba16fc1d8c7b4380bbd5be769ca
