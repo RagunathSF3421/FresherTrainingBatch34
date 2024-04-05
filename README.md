@@ -7,4 +7,3 @@
 6. Lavan Ramesh
 7. Yathavakrishnan Mohan
 8. Rethik Selvakumaran
-9. Raagavan Subramani
