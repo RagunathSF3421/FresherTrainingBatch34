@@ -8,7 +8,6 @@
 7. Yathavakrishnan Mohan
 8. Rethik Selvakumaran
 9. Deyvanai Kaliyaperumal
-9. Deyvanai Kaliyaperumal
 10. Preethika sathish
 11. Gokulkumar Murugesan
 12. ParthasarathyVenkidusamy Muthukrishnan
@@ -18,5 +17,7 @@
 16. Selvabala Velmurugan
 17. Senthilkumar Ranganthan
 18. Venkata Ramakrishna Reddy
+19. Dhanush Sivakumar
 20. Lokesh Bala
-21. Gnanaprakasam Sekar
+21. Abirami Singaravelu
+22. Gnanaprakasam Sekar 
