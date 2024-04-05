@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-1. Preethika
+1. Preethika sathish
