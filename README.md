@@ -1,2 +1,3 @@
 # FresherTrainingBatch34
-1. Sanjay Vedhachalam2.Praveen Sivaram
+1. Sanjay Vedhachalam
+2.Praveen Sivaram
