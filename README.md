@@ -23,7 +23,5 @@
 22. Sanjay Kumar
 
 20. Suruthika Anbu
-
-=======
 20. Lokesh Bala
 
