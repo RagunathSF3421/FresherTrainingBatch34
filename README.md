@@ -21,11 +21,6 @@
 20. Lokesh Bala
 21. Abirami Singaravelu
 22. Sanjay Kumar
-<<<<<<< HEAD
-
-20. Suruthika Anbu
-
-=======
 23. Rithika Rajendran
 24. Thirunavukkarasu Dhanapal
 25. Gnanaprakasam Sekar
