@@ -34,7 +34,7 @@
 33. Vallarasu Ravichandran
 34. Manju Dhanasekaran
 35. Tinesh Kumar
-36. Anand Aruloss
+36. Anand Aruldoss
 37. Dharshana Rameshgupta
 38. Raagavan Subramani
 39. Suryaprakash Ravikannan
@@ -45,4 +45,4 @@
 44. Karthika Ravichandran
 45. Rishiswaminathan Padmanaban
 46. Tharunkumar Srinivasan
-47. Syamprakash Jayaprakash
+47. Vincent Kumar Lourdu Joseph Raj
