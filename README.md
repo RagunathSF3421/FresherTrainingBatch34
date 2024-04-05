@@ -38,8 +38,6 @@
 38. Raagavan Subramani
 39. Suryaprakash Ravikannan
 40. Subash Sorimuthupattaraja
-<<<<<<< HEAD
-41. suruthika Anbu
-=======
-41. Velladurai Jeyaraj
+441. Velladurai Jeyazr
+42. Durairaj Packiyanathan
 >>>>>>> ceb6925fafc8c98c0fee12a79a8242678abe9423
