@@ -1,2 +1,3 @@
 # FresherTrainingBatch34
-1. Lavan Ramesh
+1. Sanjay Vedhachalam
+2. Lavan Ramesh
