@@ -1,2 +1,7 @@
 # FresherTrainingBatch34
-5. Lokesh Bala
+1. Sanjay Vedhachalam
+2. Narendranath Ramasamy
+3. Dinesh Kumar Thiyagarajan
+4. Prakash Muthusamy
+5. Vasanthakumar
+6. Lokesh Bala
