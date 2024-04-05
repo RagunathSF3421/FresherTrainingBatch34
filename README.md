@@ -1,2 +1,1 @@
 # FresherTrainingBatch34
-6 Venkatakrishnan
