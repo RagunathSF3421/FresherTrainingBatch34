@@ -12,5 +12,7 @@
 7. Yathavakrishnan Mohan
 8. Rethik Selvakumaran
 9. Deyvanai Kaliyaperumal
-10. Senthilkumar Ranganathan
+10. Preethika sathish
+9. Deyvanai Kaliyaperumal
+12. Senthilkumar Ranganathan
 
