@@ -1,15 +1,20 @@
 # FresherTrainingBatch34
-1. Rahul Rengaraj
-<<<<<<< HEAD
-=======
 1. Sanjay Vedhachalam
 2. Narendranath Ramasamy
 3. Dinesh Kumar Thiyagarajan
 4. Prakash Muthusamy
-<<<<<<< HEAD
->>>>>>> dda57bfd331aaf5f72ac03ce83b474c1fef4ceae
-=======
 5. Viswajith Mathialagan
 6. Lavan Ramesh
 7. Yathavakrishnan Mohan
->>>>>>> 2aa17c9db5583a2e5613119f8a757cd1994d3adf
+8. Rethik Selvakumaran
+9. Deyvanai Kaliyaperumal
+10. Preethika sathish
+11. Gokulkumar Murugesan
+12. ParthasarathyVenkidusamy Muthukrishnan
+13. Siva Paramasivam
+14. Sivasankaranarayanan Dharmalingam
+15. Prem kumar Arul
+16. Selvabala Velmurugan
+17. Senthilkumar Ranganthan
+18. Venkata Ramakrishna Reddy
+19. Dhanush Sivakumar
