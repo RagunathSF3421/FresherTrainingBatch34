@@ -18,6 +18,5 @@
 17. Senthilkumar Ranganthan
 18. Venkata Ramakrishna Reddy
 19. Dhanush Sivakumar
-
-21.Karthika Ravichandran
+20. Karthika Ravichandran
 
