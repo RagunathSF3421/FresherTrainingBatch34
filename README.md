@@ -1,2 +1,4 @@
 # FresherTrainingBatch34
-1. Lijitha Aswi
+1. Sanjay Vedhachalam
+2. Narendranath
+3. Lijitha Aswi
