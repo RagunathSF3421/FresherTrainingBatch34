@@ -1,7 +1,6 @@
 # FresherTrainingBatch34
 1. Sanjay Vedhachalam
 2. Narendranath Ramasamy
-2. Narendranath Ramasamy
 3. Dinesh Kumar Thiyagarajan
 4. Prakash Muthusamy
 5. Viswajith Mathialagan
@@ -18,4 +17,5 @@
 16. Selvabala Velmurugan
 17. Senthilkumar Ranganthan
 18. Venkata Ramakrishna Reddy
-19. Dhanush Sivakumar20. Dharshana Rameshgupta
+19. Dhanush Sivakumar
+20. Dharshana Rameshgupta 
