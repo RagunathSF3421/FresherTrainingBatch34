@@ -41,8 +41,5 @@
 28. Abinaya Selvam
 29. Tamilpriya Thangaraju
 30. Hemavathi Balaraman
-<<<<<<< HEAD
->>>>>>> e5f60078d53785c771cd1c52d5a77e311da271e0
-=======
-31. Praveen Sivaraman
->>>>>>> 80a19055e171e0a5e084bbdbdd5c71afddcbd37d
+32. Bhuvanesh Dhakshinamoorthy
+33. Vincent Kumar 
