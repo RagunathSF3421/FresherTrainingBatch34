@@ -12,6 +12,6 @@
 10. Preethika sathish
 11. Gokulkumar Murugesan
 12. ParthasarathyVenkidusamy Muthukrishnan
-12. Senthilkumar Ranganathan
-13. Tinesh Kumar
+13. Senthilkumar Ranganathan
+
 
