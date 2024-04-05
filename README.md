@@ -23,7 +23,6 @@
 22. Sanjay Kumar
 23. Rithika Rajendran
 24. Thirunavukkarasu Dhanapal
-24. Thirunavukkarasu Dhanapal
 25. Gnanaprakasam Sekar
 26. Sivakumar Vairamuthu
 27. Bala Baskar
@@ -54,4 +53,5 @@
 52. Mohamed Arshad
 53. Lijitha Aswi Andarn
 54. Priyadharshini Kesavan
+55. Suruthika Anbu
 55. Kalaivani Muthukannan
