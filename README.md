@@ -1,2 +1,2 @@
 # FresherTrainingBatch34
-1. Lokesh Bala
+4. Lokesh Bala
