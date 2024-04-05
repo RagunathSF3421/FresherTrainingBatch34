@@ -1,6 +1,6 @@
 # FresherTrainingBatch34
 <<<<<<< HEAD
-9.Karthikeyan
+10.Karthikeyan
 
 =======
 1. Sanjay Vedhachalam
