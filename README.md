@@ -1,6 +1,4 @@
 # FresherTrainingBatch34
-<<<<<<< HEAD
-
 =======
 1. Sanjay Vedhachalam
 2. Narendranath Ramasamy
@@ -12,6 +10,7 @@
 8. Rethik Selvakumaran
 9. Deyvanai Kaliyaperumal
 10. Preethika sathish
+11. Gokulkumar Murugesan
 <<<<<<< HEAD
 
 >>>>>>> 3ab3c40b99f96768709bd4672b3e49067300577b
