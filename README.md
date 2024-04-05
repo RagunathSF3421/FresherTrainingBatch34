@@ -28,13 +28,8 @@
 27. Bala Baskar
 28. Abinaya Selvam
 29. Tamilpriya Thangaraju
-<<<<<<< HEAD
-30. Suresh Ganesan
-=======
 30. Hemavathi Balaraman
 31. Praveen Sivaraman
-<<<<<<< HEAD
->>>>>>> 80a19055e171e0a5e084bbdbdd5c71afddcbd37d
-=======
 32. Bhuvanesh Dhakshinamoorthy
->>>>>>> 937dcbf6287c71e2232dce9e4c79793818077f55
+33. Vallarasu Ravichandran
+34. Suresh Ganesan
