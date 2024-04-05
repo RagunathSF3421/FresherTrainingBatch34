@@ -13,8 +13,4 @@
 12. ParthasarathyVenkidusamy Muthukrishnan
 13. Siva Paramasivam
 14. Sivasankaranarayanan Dharmalingam
-<<<<<<< .mine
 15. Satti Venkata Ramakrishna Reddy
-=======
-15. Prem kumar Arul
->>>>>>> .theirs
