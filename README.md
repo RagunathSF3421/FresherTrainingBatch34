@@ -1,9 +1,2 @@
 # FresherTrainingBatch34
-1. Sanjay Vedhachalam
-<<<<<<< HEAD
-2. Narendranath Ramasamy
-=======
-2. Narendranath Ramasamy
-3. Dinesh Kumar Thiyagarajan
-4. Prakash Muthusamy
-6. Siva Paramasivam
+7. Siva Paramasivam
